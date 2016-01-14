@@ -1,0 +1,4 @@
+services:
+#    oro_crm_shopall24_report.example:
+#        class: OroCRM\Bundle\Shopall24ReportBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
